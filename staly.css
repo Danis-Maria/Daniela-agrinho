@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(180, 36, 199);
+}
+  header{
+    background-color: rgb(243, 147, 243);
+  }
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+header{
+    background-color: rgb(234, 176, 248);
+}
+ 
+#uva{ 
+    width: 40%;
+    border: 8px solid rgb(0, 0, 0);
+    text-align: center;
+    margin-left: 550px;
+}
+
+
+#uvis{
+    border: 8px solid rgb(137, 54, 158);
+    width: 20%; 
+    margin-left: 10%;
+}
+#seila{
+    border: 8px solid rgb(137, 54, 158);
+    width: 20%;
+    margin-left: 10%;
+    
+} 
+#vinho{
+    border: 8px solid rgb(137, 54, 158);
+    width: 20%;
+    margin-left: 10%;
+}
+
+
+
+.pagina2{
+    display: inline-block;
+    background-color: aliceblue;
+}
+.lista1 li{
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 370px;
+
+} 
+
+footer{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 2px 0;
+}
+
